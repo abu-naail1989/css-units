@@ -1,0 +1,28 @@
+* {
+  margin: 0px;
+}
+
+#navbar {
+  color: red;
+  height: 100px;
+  background: white;
+  font-size: 20px;
+}
+
+.hero span {
+  color: red;
+  font-size: 32px;
+}
+
+.hero {
+  min-height: calc(100vh - 100px);
+  background: rgba(0, 0, 0, 0.85);
+}
+h1 {
+  color: white;
+}
+
+.hero-btn {
+  background: red;
+  color: white;
+}
